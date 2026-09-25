@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor (W3) of Economics with a focus on Environmental and Resource Economics at the [University of Augsburg](https://www.uni-augsburg.de/de/fakultaet/wiwi/prof/vwl/kesternich/). I am also a Research Associate at [ZEW – Leibniz Centre for European Economic Research](https://www.zew.de) in Mannheim, and an elected member of the Committee on Environmental and Resource Economics of the *Verein für Socialpolitik*.
+I am a Full Professor (W3) of Economics with a focus on Environmental and Resource Economics at the [University of Augsburg](https://www.uni-augsburg.de/de/fakultaet/wiwi/prof/vwl/kesternich/). I am also a Research Associate at [ZEW – Leibniz Centre for European Economic Research](https://www.zew.de) in Mannheim, and an elected member of the Committee on Environmental and Resource Economics of the *Verein für Socialpolitik*.
 
 My research applies experimental and empirical methods to policy-relevant questions in environmental and behavioral economics.
 
@@ -26,5 +26,5 @@ My research applies experimental and empirical methods to policy-relevant questi
 
 ## Education
 - **2015** — PhD in Economics, University of Hamburg  
-- **2014** - DAAD Fellow, Yale School of Forestry & Environmental Studies
+- **2014** — DAAD Fellow, Yale School of Forestry & Environmental Studies
 - **2010** — Diploma in Economics, University of Mannheim
